@@ -1,5 +1,13 @@
 # auth-film-api
 
+## Project future fixes
+```
+- "Favorites" fix
+- Clickable "Similar movies"
+- Genre name on Genre Page
+- Infinite Loading
+- Sessions
+```
 ## Project setup
 ```
 npm install
